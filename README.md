@@ -1,7 +1,7 @@
-# 2D_Dynamic_simualation of Jack in the box.
+# 2D_Dynamics_simualation of Jack in the box.
 
 This code is the final project for ME-314 Machine Dynamics course at Northwestern University.<br>
-For more details visit: [Portfolio Post](https://sayantani-bhattacharya.github.io/posts/my-second-post/)
+For more details visit: [Portfolio Post](https://sayantani-bhattacharya.github.io/posts/jack-in-box/)
 
 ## Dynamic modelling: 
 
